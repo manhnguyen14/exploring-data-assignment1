@@ -1,9 +1,11 @@
 #plot1
 
 #setting up(same as in others)
-  #here I use static file path: G:\household_power_consumption.txt
+  #here I use static file path: G:\household_power_consumption.txt. The file is 127mb, so I don't upload it here.
+  #Link to download zip file: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
-#make sure the file exist. Or just change the file_path
+#please make sure the file exist. Or you just need to change the value of object: file_path
+#so that the new value is the path to the file used in the assignment
   
 file_path = "G:\household_power_consumption.txt"
 
